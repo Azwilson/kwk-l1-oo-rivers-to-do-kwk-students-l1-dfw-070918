@@ -18,4 +18,4 @@ class River
   
   
   
-  the nile = River.new("The Nile", "")
+  the nile = River.new("The Nile", "42")
