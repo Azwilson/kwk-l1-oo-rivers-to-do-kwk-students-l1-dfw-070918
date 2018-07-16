@@ -18,4 +18,6 @@ class River
   
   
   
-  the nile = River.new("The Nile", "4258", "")
+  nile = River.new("The Nile", "4258", "Tanzania, Uganda, Rwanda, Burundi, the Democratic Republic of the Congo, Kenya, Ethiopia, Eritrea, South Sudan, Sudan and Egypt", )
+  
+  
