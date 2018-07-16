@@ -8,3 +8,10 @@ class River
   end
   
   def flood
+    "Increase disgharge by %30."
+  end
+  
+  
+  def dry_up
+    "discrease discharge by %50"
+  end
