@@ -15,3 +15,7 @@ class River
   def dry_up
     "discrease discharge by %50"
   end
+  
+  
+  
+  the nile = River.new("The Nile", "")
